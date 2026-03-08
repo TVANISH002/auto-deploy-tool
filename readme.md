@@ -37,13 +37,6 @@ auto-deploy-tool/
 ├── deploy.sh
 ├── rollback.sh
 ├── config.conf
-│
-├── logs/
-│   └── .gitkeep
-│
-├── backups/
-│   └── .gitkeep
-│
 ├── Dockerfile
 ├── main.py
 ├── requirements.txt
